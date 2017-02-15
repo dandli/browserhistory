@@ -13,3 +13,13 @@ img {
   float: left;
   margin-right: 10px;
 }
+
+li {
+  display: inline;
+  margin: 40px;
+}
+
+.column {
+  columns: 3;
+  column-width: 300px;
+}

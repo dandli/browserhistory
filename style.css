@@ -13,3 +13,33 @@ img {
   float: left;
   margin-right: 10px;
 }
+
+.column1 {
+  width: 300px;
+  float: left;
+  padding: 1em;
+}
+
+.column2 {
+  width: 300px;
+  float: right;
+  padding: 1em;
+}
+
+.column3 {
+  margin-right: 300px;
+  margin-left: 300px;
+  padding: 1em;
+}
+
+#navbar ul {
+  list-style-type: none;
+}
+
+#navbar li {
+  display: inline;
+}
+
+#navbar a {
+  margin: 50px;
+}
